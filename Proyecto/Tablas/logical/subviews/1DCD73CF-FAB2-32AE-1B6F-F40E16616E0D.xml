@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metadatadoc version="2.0">
+	<sub_view subview_name="Logical" id="1DCD73CF-FAB2-32AE-1B6F-F40E16616E0D" generator="null" visible="true" comment="" notes="" sv_type="main_view" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="">
+		<alter type="created">
+			<user>Fabian</user>
+			<timestamp>2015-10-21 17:48:56</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>Fabian</user>
+			<timestamp>2015-10-21 17:48:56</timestamp>
+		</alter>
+		<main_display name="Logical" objectid="1DCD73CF-FAB2-32AE-1B6F-F40E16616E0D" notation="1" show_all_details="true" show_names_only="false" show_elements="false" show_datatype="false" show_keys="false" auto_route="true" box_in_box="false" comment="" notes="">
+			<alter type="created">
+				<user>Fabian</user>
+				<timestamp>2015-10-21 15:43:09</timestamp>
+			</alter>
+			<alter type="changed">
+				<user>Fabian</user>
+				<timestamp>2015-10-21 17:48:56</timestamp>
+			</alter>
+		</main_display>
+		<subordinate_displays />
+	</sub_view>
+</metadatadoc>

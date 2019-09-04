@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metadatadoc version="2.0">
+	<object type="FKIndexAssociation" id="D59B2ECC-AED3-BDC6-6A29-0E5534F475F2" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" visible_in_main_view="true" tableid="78CA49EE-5B21-BA80-6989-8FDFC28345F6" reftableid="ACDBE520-AF4D-18F2-775A-38A3CEA78C15" references="3D84672C-1F9F-2531-3775-37E78347E647" localindexid="46C65778-3CAB-FF19-255C-595715A2D5C0" delrule="RESTRICT" mandatory="true" transferable="true" use_default_color="true" background_color="null" foreground_color="null">
+		<name>Factura _Cliente _FK</name>
+		<comment></comment>
+		<notes></notes>
+		<alter type="created">
+			<user>Fabian</user>
+			<timestamp>2015-10-21 17:37:08</timestamp>
+		</alter>
+		<alter type="changed">
+			<user>Fabian</user>
+			<timestamp>2015-10-21 17:37:08</timestamp>
+		</alter>
+		<properties>
+			<parameter name="design.owner" value="Tablas" />
+			<parameter name="object.existsinrepository" value="true" />
+			<parameter name="property.comment.rdbms" value="" />
+		</properties>
+		<engineering should="true" />
+		<des_obj_version version="1.0" />
+		<documents />
+		<parties />
+		<changerequests />
+		<measurements />
+	</object>
+</metadatadoc>

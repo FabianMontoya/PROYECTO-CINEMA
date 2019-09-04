@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<design version="2.0" id="9926D670-498B-51D6-4432-DBE4B5C8734D">
+	<ref>
+		<objectid role="contains" type="StructuredType" oid="47E390DE-0671-C4B1-8428-0F45CBEE18F8" />
+	</ref>
+	<ext_sub_views_collection>
+		<sub_view subview_name="Data Types" id="02ADC0B6-F997-F4E8-DCEA-74CD48E7CAD9" sv_type="main_view" visible="false" rep_oid="null" rep_ovid="null" is_checkedout="false" checkedout_by="" />
+	</ext_sub_views_collection>
+	<documents />
+	<parties />
+</design>
